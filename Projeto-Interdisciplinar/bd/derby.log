@@ -1,0 +1,31 @@
+Tue Oct 11 14:55:36 BRT 2016 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Tue Oct 11 14:55:36 BRT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0157-b4e2-a9c7-fffffbe78cf8 
+on database directory C:\Users\paulo.lima\Documents\PersonalDocs\PI\PI\Projeto-Interdisciplinar\bd\interProj with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_102/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_102-b14
+user.dir=C:\Program Files\Java\jdk1.8.0_102\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\paulo.lima\Documents\PersonalDocs\PI\PI\Projeto-Interdisciplinar\bd
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Oct 11 14:55:37 BRT 2016:
+Shutting down instance a816c00e-0157-b4e2-a9c7-fffffbe78cf8 on database directory C:\Users\paulo.lima\Documents\PersonalDocs\PI\PI\Projeto-Interdisciplinar\bd\interProj with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Tue Oct 11 14:55:37 BRT 2016 Thread[DRDAConnThread_2,5,main] (DATABASE = interProj), (DRDAID = {2}), Database 'interProj' shutdown.
+----------------------------------------------------------------
+Tue Oct 11 14:55:40 BRT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a65c80ac-0157-b4e2-a9c7-fffffbe78cf8 
+on database directory C:\Users\paulo.lima\Documents\PersonalDocs\PI\PI\Projeto-Interdisciplinar\bd\interProj with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_102/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_102-b14
+user.dir=C:\Program Files\Java\jdk1.8.0_102\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\paulo.lima\Documents\PersonalDocs\PI\PI\Projeto-Interdisciplinar\bd
+Database Class Loader started - derby.database.classpath=''
